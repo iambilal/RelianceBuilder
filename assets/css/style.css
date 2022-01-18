@@ -1,0 +1,24 @@
+:root{
+    --light-primary-color:#EC1D41;
+    --light-primary-dark-color:#d11030;
+    --light-secondry-color:#545B66;
+    --light-secondry-dark-color:#4a4f58;
+    --light-text-primary-color:#AAB2BD;
+    --light-text-secondry-color:#fff;
+    --light-bg-light:#fff;
+    --dark-primary-color:#EC1D41;
+    --dark-primary-dark-color:#d11030;
+    --dark-secondry-color:#262B30;
+    --dark-secondry-dark-color:#4b4e53;
+    --dark-text-primary-color:#fff;
+    --dark-text-secondry-color:#7A7A7A;
+    --dark-bg-light:#262626;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: inter,sans-serif !important;
+    font-size: 12px;
+}
